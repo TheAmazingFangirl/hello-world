@@ -1,2 +1,2 @@
 # hello-world
-The quick brown fox jumps.
+The amazing fox jumps.
